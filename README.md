@@ -1,10 +1,13 @@
+### Привет! Меня зовут Кирилл.
+
+
 [![Header](https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/kirill_sanyagin.png)](https://vk.com/kindkirill)
 
-Меня зовут Кирилл. Возраст 28 лет. Живу в городе Москва. Обучаюсь на онлайн-площадке "GeekBrains" на роль QA engineer.
+👦 Обо мне:
 
-Skills
+Я начинающий QA engineer. Свой путь начал с рекомендации человека, который занимается тестированием более 3х лет и это запустило процесс подготовки на роль QA engineer. Получаю знания и практику на онлайн-площадках "GeekBrains", "Stepik", youtube-канале "Artsiom Rusau QA Life".
 
-Инструменты:
+🪄 Инструменты:
 
 ![qase.io](https://img.shields.io/badge/-qase.io-3c3c3c?style=for-the-badge&logo=qase&logoColor=4f46ea)
 ![postman](https://img.shields.io/badge/-postman-3c3c3c?style=for-the-badge&logo=postman&logoColor=ff6c37)
@@ -18,8 +21,9 @@ Skills
 
 Static
 
-Связаться со мной:
+📞 Связаться со мной:
 
 [![vk](https://img.shields.io/badge/-vk-3c3c3c?style=for-the-badge&logo=vk&logoColor=0077ff)](https://vk.com/kindkirill)
 [![telegram](https://img.shields.io/badge/-telegram-3c3c3c?style=for-the-badge&logo=telegram&logoColor=338feb)](https://telegram.org/kirill_QA_58)
 [![discord](https://img.shields.io/badge/-discord-3c3c3c?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discord.com/channels/.kirillmsk)
+[![gmail](https://img.shields.io/badge/-gmail-3c3c3c?style=for-the-badge&logo=gmail)](kirilo5647@gmail.com)
