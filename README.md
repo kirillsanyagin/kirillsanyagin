@@ -1,11 +1,11 @@
-### Привет! Меня зовут Кирилл.
+## Привет! Меня зовут Кирилл.
 
 
 [![Header](https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/kirill_sanyagin.png)](https://vk.com/kindkirill)
 
 👦 Обо мне:
 
-Я начинающий QA engineer. Свой путь начал с рекомендации человека, который занимается тестированием более 3х лет и это запустило процесс подготовки на роль QA engineer. Получаю знания и практику на онлайн-площадках "GeekBrains", "Stepik", youtube-канале "Artsiom Rusau QA Life".
+### Я начинающий QA engineer. Свой путь начал с рекомендации человека, который занимается тестированием более 3х лет и это запустило процесс подготовки на роль QA engineer. Получаю знания и практику на онлайн-площадках "GeekBrains", "Stepik", youtube-канале "Artsiom Rusau QA Life".
 
 🪄 Инструменты:
 
@@ -19,7 +19,11 @@
 ![swagger](https://img.shields.io/badge/-swagger-3c3c3c?style=for-the-badge&logo=swagger&logoColor=85ea2d)
 
 
-Static
+### Полученные сертификаты:
+
+[![sertificat](https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-03-18%20133053.png)](https://stepik.org/cert/2372836)
+
+[![sertificat1](https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-03-18%20133603.png)](https://stepik.org/cert/2187880)
 
 📞 Связаться со мной:
 
