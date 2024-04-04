@@ -1,7 +1,7 @@
 ## Привет! Меня зовут Кирилл.
 
 
-[![Header](https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/kirill_sanyagin.png)](https://vk.com/kindkirill)
+[![Header](https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/title.jpeg)](https://vk.com/kindkirill)
 
 👦 Обо мне:
 
