@@ -27,6 +27,11 @@
 
 [<img src="https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/image.png" width="560" height="383" align="center">](https://stepik.org/cert/2409016)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/image.png/460/300">
+</p>
+
+
 📞 Связаться со мной:
 
 [![vk](https://img.shields.io/badge/-vk-3c3c3c?style=for-the-badge&logo=vk&logoColor=0077ff)](https://vk.com/kindkirill)
