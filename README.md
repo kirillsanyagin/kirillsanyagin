@@ -22,7 +22,7 @@
 <hr>
 ### Полученные сертификаты:
 
-[![certificate](//https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-03-18%20133053.png/650x400)](https://stepik.org/cert/2372836)
+[![certificate](https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-03-18%20133053.png/650x400)](https://stepik.org/cert/2372836)
 
 [<img src= "https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-03-18%20133053.png?width=70&height=70"  width="560" height="383">](https://stepik.org/cert/2372836)
 
