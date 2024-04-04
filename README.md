@@ -27,7 +27,7 @@
 
 [![sertificat2](https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/image.png)](https://stepik.org/cert/2409016)
 
-[![sertificat3]<img src="https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/image.png" width="400" height="300">](https://stepik.org/cert/2409016)
+[![sertificat3](<img src="https://github.com/kirillsanyagin/kirillsanyagin/blob/main/assets/image.png" width="400" height="300">)](https://stepik.org/cert/2409016)
 
 📞 Связаться со мной:
 
